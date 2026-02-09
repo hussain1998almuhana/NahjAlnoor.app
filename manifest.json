@@ -1,0 +1,35 @@
+
+{
+  "name": "نهج النور - Nahj al-Noor",
+  "short_name": "نهج النور",
+  "description": "تطبيق شيعي شامل لأوقات الصلاة والقرآن الكريم بتصميم عصري",
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#065f46",
+  "theme_color": "#065f46",
+  "categories": ["lifestyle", "utilities", "education"],
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2913/2913474.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2913/2913474.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://images.unsplash.com/photo-1590076215667-875d45336102?auto=format&fit=crop&w=1080&h=1920",
+      "sizes": "1080x1920",
+      "type": "image/jpeg",
+      "form_factor": "narrow",
+      "label": "الشاشة الرئيسية"
+    }
+  ]
+}

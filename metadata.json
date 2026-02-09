@@ -1,0 +1,7 @@
+{
+  "name": "نهج النور - Nahj al-Noor",
+  "description": "تطبيق شيعي شامل لأوقات الصلاة، القرآن الكريم، المسبحة الإلكترونية، وإتجاه القبلة بتصميم عصري وأنيق.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}

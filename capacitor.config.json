@@ -1,0 +1,15 @@
+
+{
+  "appId": "com.nahjalnoor.app",
+  "appName": "نهج النور",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": true,
+    "captureInput": true,
+    "backgroundColor": "#065f46"
+  }
+}
